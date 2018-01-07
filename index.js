@@ -30,3 +30,6 @@ function prependKitten(name) {
   return moreKittens
 }
 
+function removeLastKitten(){
+  fewerKittens = kittens.
+}
