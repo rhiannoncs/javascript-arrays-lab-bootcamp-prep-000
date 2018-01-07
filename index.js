@@ -30,7 +30,9 @@ function prependKitten(name) {
   return moreKittens
 }
 
-function removeLastKitten(){
+function removeLastKitten() {
   fewerKittens = kittens.slice(-1)
   return fewerKittens
 }
+
+function removeFirstKitten()
